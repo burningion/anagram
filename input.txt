@@ -1,0 +1,11 @@
+parts
+flights
+trips
+pears
+fights
+parse
+apple
+spear
+spears
+smear
+spares
